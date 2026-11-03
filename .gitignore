@@ -1,5 +1,13 @@
 # Compiled class file
 *.class
+/target/
+/build/classes/
+
+# Operating system and IDE workspace files
+.DS_Store
+Thumbs.db
+/.metadata/
+/Servers/
 
 # Log file
 *.log
